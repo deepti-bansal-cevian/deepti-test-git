@@ -1,3 +1,4 @@
 hi welcome to the AI World.
 Ai is the emerging technology todays.Ai helps in building complex 
-applications
+applications.We use langchain framework to build llm applications.RAG
+is a technique that have  retrieval and generation to build LLM.
